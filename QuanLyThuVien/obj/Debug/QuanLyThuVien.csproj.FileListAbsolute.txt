@@ -1,0 +1,135 @@
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Code tai\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Code tai\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\BaiCoHuong\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
